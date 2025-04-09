@@ -12,7 +12,7 @@ const Header = () => {
     </ul>
     </header>
   );
-};
+}; 
 
 
 const Home = () => {
